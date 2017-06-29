@@ -1,0 +1,42 @@
+[Main]
+Font = Ubuntu-Bold
+SizeOffset = -2
+OffsetX = 0
+OffsetY = -1
+
+[Border]
+Font = Ubuntu-Bold
+SizeOffset = -2
+OffsetX = 0
+OffsetY = 0
+
+[Button]
+Font = Ubuntu-Bold
+SizeOffset = -2
+OffsetX = 0
+OffsetY = 0
+
+[Highlight]
+Font = Ubuntu-Bold
+SizeOffset = -2
+OffsetX = 0
+OffsetY = 0
+
+[Search]
+Font = Ubuntu-Bold
+SizeOffset = -2
+OffsetX = 0
+OffsetY = 0
+
+[Code]
+Font = Ubuntu-Bold
+SizeOffset = -2
+OffsetX = 0
+OffsetY = 0
+
+[Header]
+Font = Ubuntu-Bold
+SizeOffset = -2
+OffsetX = 0
+OffsetY = -2
+
