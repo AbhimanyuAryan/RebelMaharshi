@@ -1,6 +1,6 @@
-#Counter Strike Clone
+# Counter Strike Clone
 
-## Features in Game
+### Features in Game
 * Minimap implementation
 * Weapon Switching
 * Terrain System
