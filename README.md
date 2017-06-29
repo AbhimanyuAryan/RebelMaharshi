@@ -1,4 +1,4 @@
-#**Counter Strike Clone**
+#Counter Strike Clone
 
 ## Features in Game
 * Minimap implementation
