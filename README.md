@@ -1,5 +1,7 @@
 # Counter Strike Clone
 
+C# code: https://github.com/AbhimanyuAryan/RebelMaharshi/tree/master/Assets/Scripts
+
 ### Features in Game
 * Minimap implementation
 * Weapon Switching
